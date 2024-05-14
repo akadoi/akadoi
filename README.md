@@ -1,5 +1,5 @@
 **About Me**
-👋 Hi there! I'm liam also goes with the name doi, and I'm new to the exciting world of coding. I'm passionate about learning and growing my skills in software development.
+👋 Hi there! I'm Liam also goes with the name Doi, and I'm new to the exciting world of coding. I'm passionate about learning and growing my skills in software development.
 
 **🔭 Current Focus:**
 Currently learning the basics of HTML, CSS, and JavaScript.
